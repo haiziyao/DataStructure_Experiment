@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainMenuWindow</class>
+ <widget class="QWidget" name="MainMenuWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="exp6Button">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>50</y>
+     <width>79</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>农夫过河</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exp13Button">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>50</y>
+     <width>79</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>迷宫问题</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exp1Button">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>110</y>
+     <width>79</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>背包问题</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exp11Button">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>110</y>
+     <width>79</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>哈夫曼压缩</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exp4Button">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>170</y>
+     <width>79</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>八皇后</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

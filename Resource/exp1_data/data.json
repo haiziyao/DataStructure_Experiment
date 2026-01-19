@@ -1,0 +1,11 @@
+{
+  "sumNum": 3,
+  "sumWeight" : 3,
+  "weightArr" : [
+    2,1,3
+  ],
+  "valArr": [
+    4,2,3
+  ]
+
+}
